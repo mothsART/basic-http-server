@@ -1,0 +1,5 @@
+basic-http-server (0.1.2) xenial; urgency=medium
+
+  * Initial release
+
+ -- Jérémie Ferry <jerem.ferry@gmail.com>  Sun, 03 Jun 2018 21:50:01 -0600
